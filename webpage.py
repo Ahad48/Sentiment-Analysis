@@ -1,4 +1,3 @@
-from cv2 import dft
 import streamlit as st
 from news import articles, print_bar_graph, plot_word_cloud
 
